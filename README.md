@@ -2,7 +2,7 @@
 
 Calculator responsible for calculating a person's BMI, using height and weight.
 
-###App created using React Native
+### App created using React Native
 
 ## Required
 
